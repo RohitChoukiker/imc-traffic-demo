@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+numpy
+langchain
+sentence-transformers
+python-dotenv
+pytest
+pytest-asyncio
+mysql-connector-python
+pandas
+langchain-anthropic
+faiss-cpu
+openpyxl
+
+python-jose
+pinecone>=2.2.0
+langchain-community
