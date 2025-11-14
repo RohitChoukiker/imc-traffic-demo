@@ -29,7 +29,7 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({ message }) => {
         <img
           src="/images/main_logo.png"
           alt="Smart city Logo"
-          className="h-10 w-auto"
+          className="h-10 w-auto border-2 border-black/9 rounded-full mt-1"
         />
       )}
 
