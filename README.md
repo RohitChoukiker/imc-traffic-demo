@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🚦 Smart City Indore – AI Chatbot (RAG-based)
 
 An AI-powered chatbot built for Smart City Indore, designed to assist citizens by answering queries using government data.
